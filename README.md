@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cjcompton (Charlie Compton)
-- 👀 I’m interested in Web Dev, App Dev, and Cyber Security
-- 🌱 I'm learning Flutter and Dart
-- 📫 How to reach me: ccompton@lclark.edu, (207)245-4995
+- 👀 I’m interested in Web Dev, App Dev, and any other form of Software Development
+- 🌱 I'm currently learning React Native, ReactJS, Bootstrap, Tailwindcss, Vite, and much more
+- 📫 How to reach me: charlcompton@gmail.com, (207)245-4995
 
 <!---
 cjcompton/cjcompton is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
